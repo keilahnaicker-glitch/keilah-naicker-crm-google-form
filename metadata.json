@@ -1,0 +1,6 @@
+{
+  "name": "Google Workspace CRM",
+  "description": "A simple CRM system connecting Google Forms, Google Sheets, and automated welcome emails with Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
